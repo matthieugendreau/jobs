@@ -2,7 +2,7 @@
 
 ## Intro
 Chez PriceMatch, les ingénieurs développent des technologies nouvelles qui soutiennent des milliers d’hoteliers indépendants dans l’élaboration de la politique tarifaire de leur hôtel. Forts des outils modernes dans le cloud et le big data, nous bouleversons un secteur jusqu’à présent mal équipé en technologie. PriceMatch fournit aux hôteliers des algorithmes et des outils d’aide à la décision qui leur permettent de publier le juste prix, sur le bon canal, au meilleur moment. Alors que des acteurs comme Booking.com se gavent sur les commissions prélevées sur les résultats des hôtels, nous renversons l’équilibre en indiquant aux hôteliers quelles sont les nuits où ils peuvent se passer de ces tiers trop gourmands.
-Nous recrutons des ingénieurs - data scientists et des développeurs web polyvalents pour mettre le turbo sur de nombreux aspects techniques de la plateforme. Nous exigeons des ingénieurs versatiles, agiles; l’inventivité et la soif d’apprendre sont des qualités indispensable pour s’attaquer aux problèmes auxquels nous faisons face quotidiennement.
+Nous recrutons des ingénieurs - data scientists et des développeurs web polyvalents pour mettre le turbo sur de nombreux aspects techniques de la plateforme. Nous exigeons des ingénieurs versatiles, agiles; l’inventivité et la soif d’apprendre sont des qualités indispensable pour s’attaquer aux problèmes auxquels nous faisons face au quotidien.
 
 ## Responsabilités
 - Maitriser le produit et son implémentation pour s’intégrer rapidement dans une petite équipe (10)
